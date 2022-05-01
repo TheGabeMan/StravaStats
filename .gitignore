@@ -39,3 +39,6 @@ dmypy.json
 ../.DS_Store
 notepad.txt
 
+secret_strava_tokens_json.env
+secret_client_id.env
+secret_client_secret.env
