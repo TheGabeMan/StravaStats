@@ -1,0 +1,3 @@
+- handle multiple activities on the same day
+- handle no power data but with heartrate
+- handle no power data, no heartrate
